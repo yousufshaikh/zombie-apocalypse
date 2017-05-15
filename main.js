@@ -13,6 +13,6 @@ else if (randomNumber === 0) {
 console.log(randomNumber);
  }
  else{
-     alert("You are waisting your time");
+     alert("You are wasting your time");
  }
 
